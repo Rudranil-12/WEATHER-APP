@@ -1,2 +1,1 @@
-# WEATHER
-js
+This Weather App is a lightweight and responsive web application built with HTML, CSS, and JavaScript. It integrates with the OpenWeatherMap API to fetch real-time weather data based on user input (city name or location). The app displays essential weather details such as temperature, weather condition, humidity, and wind speed in a clean and user-friendly interface. Its responsive design ensures smooth usability across both desktop and mobile devices.
